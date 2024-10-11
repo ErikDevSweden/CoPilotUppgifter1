@@ -1,0 +1,15 @@
+/Users/hedlund/csharp-test/CoPilotUppgifter/CoPilotUppgifter1/bin/Debug/net8.0/CoPilotUppgifter1
+/Users/hedlund/csharp-test/CoPilotUppgifter/CoPilotUppgifter1/bin/Debug/net8.0/CoPilotUppgifter1.deps.json
+/Users/hedlund/csharp-test/CoPilotUppgifter/CoPilotUppgifter1/bin/Debug/net8.0/CoPilotUppgifter1.runtimeconfig.json
+/Users/hedlund/csharp-test/CoPilotUppgifter/CoPilotUppgifter1/bin/Debug/net8.0/CoPilotUppgifter1.dll
+/Users/hedlund/csharp-test/CoPilotUppgifter/CoPilotUppgifter1/bin/Debug/net8.0/CoPilotUppgifter1.pdb
+/Users/hedlund/csharp-test/CoPilotUppgifter/CoPilotUppgifter1/obj/Debug/net8.0/CoPilotUppgifter1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hedlund/csharp-test/CoPilotUppgifter/CoPilotUppgifter1/obj/Debug/net8.0/CoPilotUppgifter1.AssemblyInfoInputs.cache
+/Users/hedlund/csharp-test/CoPilotUppgifter/CoPilotUppgifter1/obj/Debug/net8.0/CoPilotUppgifter1.AssemblyInfo.cs
+/Users/hedlund/csharp-test/CoPilotUppgifter/CoPilotUppgifter1/obj/Debug/net8.0/CoPilotUppgifter1.csproj.CoreCompileInputs.cache
+/Users/hedlund/csharp-test/CoPilotUppgifter/CoPilotUppgifter1/obj/Debug/net8.0/CoPilotUppgifter1.sourcelink.json
+/Users/hedlund/csharp-test/CoPilotUppgifter/CoPilotUppgifter1/obj/Debug/net8.0/CoPilotUppgifter1.dll
+/Users/hedlund/csharp-test/CoPilotUppgifter/CoPilotUppgifter1/obj/Debug/net8.0/refint/CoPilotUppgifter1.dll
+/Users/hedlund/csharp-test/CoPilotUppgifter/CoPilotUppgifter1/obj/Debug/net8.0/CoPilotUppgifter1.pdb
+/Users/hedlund/csharp-test/CoPilotUppgifter/CoPilotUppgifter1/obj/Debug/net8.0/CoPilotUppgifter1.genruntimeconfig.cache
+/Users/hedlund/csharp-test/CoPilotUppgifter/CoPilotUppgifter1/obj/Debug/net8.0/ref/CoPilotUppgifter1.dll
