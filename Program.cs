@@ -1,7 +1,3 @@
-﻿using System.Diagnostics.CodeAnalysis;
-using System.Globalization;
-using System.Reflection.Metadata;
-
 namespace CoPilotUppgifter1
 {
     internal class Program
